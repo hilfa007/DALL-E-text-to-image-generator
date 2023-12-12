@@ -1,5 +1,4 @@
-# Synthetic Image Generation Using OpenAI's
-# Generative Model, DALL-E-3
+# Synthetic Image Generation Using OpenAI's DALL-E-3
 
 Home
 ![default](https://github.com/hilfa007/DALL-E-text-to-image-generator/assets/88790993/3b3c039c-e78e-438b-b5e2-bdd7319cd095)
